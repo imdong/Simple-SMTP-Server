@@ -1,5 +1,10 @@
 # Simple SMTP Server
+
 基于Swoole开发的运行在PHP环境下的简易SMTP邮件服务器
+
+青石 博客 http://www.qs5.org
+
+
 
 ## 简易邮件接收服务器
 创建一个可以接受任意邮件的邮件服务器。
@@ -15,3 +20,4 @@
 官方Github: https://github.com/swoole/swoole-src
 
 PHP下可一键安装Swoole: pecl install swoole
+
